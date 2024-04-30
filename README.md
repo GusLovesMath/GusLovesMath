@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-    <a href="https://twitter.com/GusLovesMath"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/gassanyacteen/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2?logo=Linkedin&logoColor=white"></a>
 </p>
 
