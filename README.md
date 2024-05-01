@@ -1,7 +1,7 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/GusLovesMath"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=60&pause=1500&color=FF6347&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B!+I+am+Gus;Nice+to+meet+you!+Welcome+to+my+profile!" alt="Typing SVG" /></a>
+<a href="https://github.com/GusLovesMath"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=60&pause=1500&color=FF6347&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B!+I+am+Gus;Nice+to+meet+you!+Welcome+to+my+profile!" alt="Typing SVG" /></a>
 </p>
 
 
@@ -61,8 +61,7 @@ Here is my Arsenal Tools and Skills I use;
 
 ## Check out my Latest Projects
 
-- [High-Accuracy Brain Tumor Classification using CNN]([https://github.com/GusLovesMath/BrainTumorCNN](https://github.com/GusLovesMath/BrainTumorClassifier-CNN-TF2.16
-)) - Developed a CNN leveraging TensorFlow 2.16 and GPU acceleration to classify brain tumors with a 99.7% test accuracy rate. This project utilized data augmentation, beta parameter adjustments in the Adam optimizer, and implemented EarlyStopping and ReduceLROnPlateau callbacks, demonstrating the power of advanced neural networks in medical imaging.
+- [High-Accuracy Brain Tumor Classification using CNN](https://github.com/GusLovesMath/BrainTumorCNN](https://github.com/GusLovesMath/BrainTumorClassifier-CNN-TF2.16) - Developed a CNN leveraging TensorFlow 2.16 and GPU acceleration to classify brain tumors with a 99.7% test accuracy rate. This project utilized data augmentation, beta parameter adjustments in the Adam optimizer, and implemented EarlyStopping and ReduceLROnPlateau callbacks, demonstrating the power of advanced neural networks in medical imaging.
 
 - [Stock Forecasting with Multi-Step Stacked LSTM](https://github.com/GusLovesMath/Stacked_Multi_Step_LSTM) - This project introduces single-step-ahead and multi-stacked LSTM models for predicting Tesla stock prices. The accompanying notebook provides intuitive and mathematical explanations of LSTM networks, delving into the intricacies of stacked LSTMs and multi-step forecasting for comprehensive time series analysis.
 
