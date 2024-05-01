@@ -3,8 +3,6 @@
 </p>
 
 
-
-
 <p align="center">
     <a href="https://www.linkedin.com/in/gassanyacteen/"><img alt="LinkedIn" src="https://img.shields.io/badge/Gassan_Yacteen-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
     <a href="https://www.kaggle.com/guslovesmath"><img alt="Kaggle" src="https://img.shields.io/badge/GusLovesMath-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
