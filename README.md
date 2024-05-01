@@ -1,6 +1,7 @@
 <p align="center">
-<a href="https://github.com/GusLovesMath"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono+Bold&size=60&pause=300&color=008B8B&center=true&vCenter=false&multiline=true&width=900&height=70&lines=%F0%9F%91%8B+Hi!+I+am+Gus+!;Nice+to+meet+you!+Welcome+to+my+profile!" alt="Typing SVG" /></a>
+<a href="https://github.com/GusLovesMath"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono+Bold&size=40&pause=2000&color=008B8B&center=true&vCenter=false&multiline=true&width=900&height=100&lines=%F0%9F%91%8B+Hi!+I+am+Gus;Nice+to+meet+you!;Welcome+to+my+profile!" alt="Typing SVG" /></a>
 </p>
+
 
 
 <p align="center">
