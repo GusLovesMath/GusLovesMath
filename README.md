@@ -4,6 +4,12 @@
 
 
 <p align="center">
+<a href="https://github.com/GusLovesMath"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono+Bold&size=40&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B+Hi!+I+am+Gus;Nice+to+meet+you!+Welcome+to+my+profile!" alt="Typing SVG" /></a>
+</p>
+
+
+
+<p align="center">
     <a href="https://www.linkedin.com/in/gassanyacteen/"><img alt="LinkedIn" src="https://img.shields.io/badge/Gassan_Yacteen-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
     <a href="https://www.kaggle.com/guslovesmath"><img alt="Kaggle" src="https://img.shields.io/badge/GusLovesMath-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
 </p>
