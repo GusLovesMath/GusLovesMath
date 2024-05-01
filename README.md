@@ -23,7 +23,7 @@ Professionally, I served as an AI Research Engineer at AIMdyn Inc., where I buil
   <img width="50%" src="https://github-readme-stats-five-topaz-76.vercel.app/api?username=GusLovesMath&show_icons=true&theme=dark" alt="Gassan's GitHub stats"></img>
 </p> -->
 
-## Here are my Favorite Tools and Skills:
+## Here are my Favorite Tools:
 <h4 align="left">Programming and Machine Learning</h3>
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></img>
