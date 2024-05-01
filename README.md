@@ -25,7 +25,7 @@ Professionally, I served as an AI Research Engineer at AIMdyn Inc., where I buil
   <img width="50%" src="https://github-readme-stats-five-topaz-76.vercel.app/api?username=GusLovesMath&show_icons=true&theme=dark" alt="Gassan's GitHub stats"></img>
 </p> -->
 
-### Here is my Arsenal Tools and Skills I use:
+## Here is my Arsenal Tools and Skills I use:
 
 <h4 align="left">Programming and Machine Learning</h3>
 <p>
