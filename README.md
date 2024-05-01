@@ -63,7 +63,7 @@ Professionally, I served as an AI Research Engineer at AIMdyn Inc., where I buil
 - [Ozone (O3) AQI Trends in High-Impact U.S. Regions](https://github.com/GusLovesMath/O3_AQI_Emission_ML) - Applies SARIMAX and Holt-Winters models to analyze and predict ground-level ozone fluctuations, contributing to better environmental policy making.
 
 
-## Connect with me
+**Connect with me:**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gassanyacteen/"><img alt="LinkedIn" src="https://img.shields.io/badge/Gassan_Yacteen-0077B5?style=flat&logo=linkedin&logoColor=white" /></a> <br>
