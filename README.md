@@ -54,7 +54,7 @@ Professionally, I served as an AI Research Engineer at AIMdyn Inc., where I buil
 </p>
 
 ## Check out my Latest Projects
-- [NeuralForecast | Nixtla NeuralForecast](https://www.kaggle.com/code/guslovesmath/amazing-neuralforecast-nvda-forecasting) - Features a comprehensive range of neural forecasting models including NBEATS and TFT, enhancing stock market analysis and prediction accuracy.
+- [NeuralForecast | Nixtla NeuralForecast](https://www.kaggle.com/code/guslovesmath/amazing-neuralforecast-nvda-forecasting) - Features comprehensive neural forecasting models including NBEATS, enhancing stock market analysis, prediction accuracy, and model training time.
 
 - [High-Accuracy Brain Tumor Classification using CNN](https://github.com/GusLovesMath/BrainTumorClassifier-CNN-TF2.16) - A CNN developed with TensorFlow 2.16 and GPU acceleration achieves a 99.7% accuracy rate in classifying brain tumors, incorporating advanced techniques like data augmentation and adaptive learning rate adjustments.
 
@@ -64,11 +64,10 @@ Professionally, I served as an AI Research Engineer at AIMdyn Inc., where I buil
 
 
 ## Connect with me
-If you want to stay in touch or collaborate on projects.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/gassanyacteen/"><img alt="LinkedIn" src="https://img.shields.io/badge/Gassan_Yacteen-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/guslovesmath"><img alt="Kaggle" src="https://img.shields.io/badge/GusLovesMath-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gassanyacteen/"><img alt="LinkedIn" src="https://img.shields.io/badge/Gassan_Yacteen-0077B5?style=flat&logo=linkedin&logoColor=white" /></a> <br>
+  <a href="https://www.kaggle.com/guslovesmath"><img alt="Kaggle" src="https://img.shields.io/badge/GusLovesMath-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a> <br>
   <a href="https://www.youtube.com/MathPhysicsFunWithGus"><img alt="YouTube" src="https://img.shields.io/badge/Math%20&%20Physics%20Fun%20with%20Gus-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
 </p>
 
