@@ -27,7 +27,7 @@ Professionally, I served as an AI Research Engineer at AIMdyn Inc., where I buil
 
 Here is my Arsenal Tools and Skills I use;
 
-<h3 align="left">Programming and Machine Learning</h3>
+<h4 align="left">Programming and Machine Learning</h3>
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></img>
     <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></img>
@@ -42,7 +42,7 @@ Here is my Arsenal Tools and Skills I use;
     <img alt="Statsmodels" src="https://img.shields.io/badge/Statsmodels-DA8B16.svg?logo=statsmodels&logoColor=white"></img>
 </p>
 
-<h3 align="left">Data Visualization</h3>
+<h4 align="left">Data Visualization</h3>
 <p>
     <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557c.svg?logo=Python&logoColor=white"></img>
     <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-15D8B0.svg?logo=Seaborn&logoColor=white"></img>
@@ -50,7 +50,7 @@ Here is my Arsenal Tools and Skills I use;
     <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?logo=Tableau&logoColor=white"></img>
 </p>
 
-<h3 align="left">Tools & Platforms</h3>
+<h4 align="left">Tools & Platforms</h3>
 <p>
     <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></img>
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></img>
