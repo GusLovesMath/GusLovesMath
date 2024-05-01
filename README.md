@@ -2,31 +2,25 @@
 <a href="https://github.com/GusLovesMath"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono+Bold&size=65&pause=10&color=008B8B&center=true&vCenter=false&multiline=true&width=900&height=160&lines=%F0%9F%91%8B+Hi!+I+am+Gus!;Nice+to+meet+you!;Welcome+to+my+profile!" alt="Typing SVG" /></a>
 </p>
 
-
-
 <p align="center">
     <a href="https://www.linkedin.com/in/gassanyacteen/"><img alt="LinkedIn" src="https://img.shields.io/badge/Gassan_Yacteen-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
     <a href="https://www.kaggle.com/guslovesmath"><img alt="Kaggle" src="https://img.shields.io/badge/GusLovesMath-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
 </p>
 
 <p align="left">
-
 Hello! I'm Gassan, a driven Data Scientist currently pursuing a Master's in Data Science. Passionate about data science and machine learning, my background in physics and research has fueled my specialization in advanced machine learning models, with a focus on deep learning, time series analysis, and computational modeling.
 
 Throughout my academic journey from the University of Massachusetts Amherst to Harvard, I've consistently engaged in projects that emphasize data-driven decision-making and statistical analysis. My work includes developing predictive models for dynamic systems, creating intuitive visualizations for complex data, and applying machine learning techniques to solve real-world challenges.
 
 Professionally, I served as an AI Research Engineer at AIMdyn Inc., where I built Koopman-based machine learning models from scratch to production for autonomous system learning inputs, enhancing model accuracy and efficiency. I actively participate in data science competitions on Kaggle and run a YouTube channel, 'Math & Physics Fun with Gus', where I share insights on complex mathematical theories and data science concepts.
-
 </p>
 
-<br>
 <!-- <br>
 <p align="center">
   <img width="50%" src="https://github-readme-stats-five-topaz-76.vercel.app/api?username=GusLovesMath&show_icons=true&theme=dark" alt="Gassan's GitHub stats"></img>
 </p> -->
 
 ## Here is my Arsenal Tools and Skills I use:
-
 <h4 align="left">Programming and Machine Learning</h3>
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></img>
