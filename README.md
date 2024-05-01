@@ -1,7 +1,7 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/GusLovesMath"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=60&pause=1500&color=FF6347&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B!+I+am+Gus;Nice+to+meet+you!+Welcome+to+my+profile!" alt="Typing SVG" /></a>
+<a href="https://github.com/GusLovesMath"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=60&pause=1500&color=FF6347&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B + Hi!+I+am+Gus;Nice+to+meet+you!+Welcome+to+my+profile!" alt="Typing SVG" /></a>
 </p>
 
 
@@ -60,14 +60,14 @@ Here is my Arsenal Tools and Skills I use;
 </p>
 
 ## Check out my Latest Projects
+- [High-Accuracy Brain Tumor Classification using CNN](https://github.com/GusLovesMath/BrainTumorClassifier-CNN-TF2.16) - A CNN developed with TensorFlow 2.16 and GPU acceleration achieves a 99.7% accuracy rate in classifying brain tumors, incorporating advanced techniques like data augmentation and adaptive learning rate adjustments.
 
-- [High-Accuracy Brain Tumor Classification using CNN](https://github.com/GusLovesMath/BrainTumorCNN](https://github.com/GusLovesMath/BrainTumorClassifier-CNN-TF2.16) - Developed a CNN leveraging TensorFlow 2.16 and GPU acceleration to classify brain tumors with a 99.7% test accuracy rate. This project utilized data augmentation, beta parameter adjustments in the Adam optimizer, and implemented EarlyStopping and ReduceLROnPlateau callbacks, demonstrating the power of advanced neural networks in medical imaging.
+- [Stock Forecasting with Multi-Step Stacked LSTM](https://github.com/GusLovesMath/Stacked_Multi_Step_LSTM) - Utilizes stacked LSTM models for detailed Tesla stock price forecasting, with extensive documentation on LSTM network theory and practical application.
 
-- [Stock Forecasting with Multi-Step Stacked LSTM](https://github.com/GusLovesMath/Stacked_Multi_Step_LSTM) - This project introduces single-step-ahead and multi-stacked LSTM models for predicting Tesla stock prices. The accompanying notebook provides intuitive and mathematical explanations of LSTM networks, delving into the intricacies of stacked LSTMs and multi-step forecasting for comprehensive time series analysis.
+- [Ozone (O3) AQI Trends in High-Impact U.S. Regions](https://github.com/GusLovesMath/O3_AQI_Emission_ML) - Applies SARIMAX and Holt-Winters models to analyze and predict ground-level ozone fluctuations, contributing to better environmental policy making.
 
-- [Ozone (O3) AQI Trends in High-Impact U.S. Regions](https://github.com/GusLovesMath/O3_AQI_Emission_ML) - Analyzed O3 AQI trends to understand air pollution variations across major U.S. regions. Applied SARIMAX and Holt-Winters to capture and forecast nuanced and unpredictable patterns in ground-level ozone fluctuations, demonstrating the power of data-driven approaches in informing environmental policy and public health strategies.
+- [NeuralForecast | Nixtla NeuralForecast](https://www.kaggle.com/code/guslovesmath/amazing-neuralforecast-nvda-forecasting) - Features a comprehensive range of neural forecasting models including NBEATS and TFT, enhancing stock market analysis and prediction accuracy.
 
-- [NeuralForecast | Nixtla NeuralForecast]([https://github.com/GusLovesMath/NeuralForecast](https://www.kaggle.com/code/guslovesmath/amazing-neuralforecast-nvda-forecasting)) - NeuralForecast stands as a beacon of innovation in stock forecasting, offering a versatile arsenal of neural forecasting models. From classic MLP and RNNs to groundbreaking contributions like NBEATS, NHITS, and TFT, NeuralForecast caters to diverse stock market analysis needs.
 
 ## Connect with me
 If you want to stay in touch or collaborate on projects, these links might be useful.
