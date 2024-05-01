@@ -1,3 +1,4 @@
+---
 <p align="center">
 <a href="https://github.com/GusLovesMath"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono+Bold&size=65&pause=10&color=008B8B&center=true&vCenter=false&multiline=true&width=900&height=160&lines=%F0%9F%91%8B+Hi!+I+am+Gus!;Nice+to+meet+you!;Welcome+to+my+profile!" alt="Typing SVG" /></a>
 </p>
@@ -6,7 +7,7 @@
     <a href="https://www.linkedin.com/in/gassanyacteen/"><img alt="LinkedIn" src="https://img.shields.io/badge/Gassan_Yacteen-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
     <a href="https://www.kaggle.com/guslovesmath"><img alt="Kaggle" src="https://img.shields.io/badge/GusLovesMath-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
 </p>
-
+---
 <p align="left">
 Hello! I'm Gassan, a driven Data Scientist currently pursuing a Master's in Data Science. Passionate about data science and machine learning, my background in physics and research has fueled my specialization in advanced machine learning models, with a focus on deep learning, time series analysis, and computational modeling.
 
@@ -64,7 +65,7 @@ Professionally, I served as an AI Research Engineer at AIMdyn Inc., where I buil
 
 ---
 
-**Connect with me:**
+## Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gassanyacteen/"><img alt="LinkedIn" src="https://img.shields.io/badge/Gassan_Yacteen-0077B5?style=flat&logo=linkedin&logoColor=white" /></a> <br>
