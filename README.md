@@ -1,8 +1,9 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/GusLovesMath"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono+Bold&size=60&pause=1000&color=FF6347&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B!+I+am+Gus;Nice+to+meet+you!" alt="Typing SVG" /></a>
+<a href="https://github.com/GusLovesMath"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=60&pause=1500&color=FF6347&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B!+I+am+Gus;Nice+to+meet+you!+Welcome+to+my+profile!" alt="Typing SVG" /></a>
 </p>
+
 
 <p align="center">
     <a href="https://www.linkedin.com/in/gassanyacteen/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2?logo=Linkedin&logoColor=white"></a>
