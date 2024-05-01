@@ -11,7 +11,7 @@
 ---
 
 <p align="left">
-Hello! I'm Gassan, a driven Data Scientist currently pursuing a Master's in Data Science. Passionate about data science and machine learning, my background in physics and research has fueled my specialization in advanced machine learning models, with a focus on deep learning, time series analysis, and computational modeling.
+Hello! I'm Gassan, a driven Data Scientist currently pursuing a Master's in Data Science. Passionate about data science and machine learning, my background in physics and research has fueled my specialization in advanced machine learning models.
 
 Throughout my academic journey from the University of Massachusetts Amherst to Harvard, I've consistently engaged in projects that emphasize data-driven decision-making and statistical analysis. My work includes developing predictive models for dynamic systems, creating intuitive visualizations for complex data, and applying machine learning techniques to solve real-world challenges.
 
