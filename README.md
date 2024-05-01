@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/GusLovesMath"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=4A71D9&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B!+I+am+Gassan+Yacteen;Nice+to+meet+you!" alt="Typing SVG" /></a>
+<a href="https://github.com/GusLovesMath"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=30&pause=1500&color=FF6347&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B!+I+am+Gus;Nice+to+meet+you!+Welcome+to+my+profile!" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -8,11 +8,11 @@
 
 <p align="left">
 
-Hello! I'm Gassan, a driven Data Scientist currently pursuing a Master of Liberal Arts in Data Science at Harvard Extension School. My passion for data science and machine learning is matched by a strong foundation in physics and extensive research experience. I specialize in developing advanced machine learning models and have a particular interest in deep learning, time series analysis, and computational modeling.
+Hello! I'm Gassan, a driven Data Scientist currently pursuing a Master's in Data Science. Passionate about data science and machine learning, my background in physics and research has fueled my specialization in advanced machine learning models, with a focus on deep learning, time series analysis, and computational modeling.
 
-Throughout my academic journey, from the University of Massachusetts Amherst to Harvard, I have consistently engaged in projects that emphasize data-driven decision making and statistical analysis. My work includes developing predictive models for dynamic systems, creating intuitive visualizations for complex data, and applying machine learning techniques to solve real-world challenges.
+Throughout my academic journey from the University of Massachusetts Amherst to Harvard, I've consistently engaged in projects that emphasize data-driven decision-making and statistical analysis. My work includes developing predictive models for dynamic systems, creating intuitive visualizations for complex data, and applying machine learning techniques to solve real-world challenges.
 
-Professionally, I have contributed as an AI Research Engineer at AIMdyn Inc., where I enhanced model accuracy and efficiency for predictive controls. I am also actively involved in various data science competitions on Kaggle and maintain a blog and YouTube channel, 'Math & Physics Fun with Gus', where I share insights on complex mathematical theories and data science concepts.
+Professionally, I served as an AI Research Engineer at AIMdyn Inc., where I built Koopman-based machine learning models from scratch to production for autonomous system learning inputs, enhancing model accuracy and efficiency. I actively participate in data science competitions on Kaggle and run a YouTube channel, 'Math & Physics Fun with Gus', where I share insights on complex mathematical theories and data science concepts.
 
 </p>
 
@@ -29,6 +29,7 @@ Here is my Arsenal Tools and Skills I use;
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></img>
     <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></img>
     <img alt="Matlab" src="https://img.shields.io/badge/Matlab-0076A8.svg?logo=matlab&logoColor=white"></img>
+    <img alt="Wolfram Language" src="https://img.shields.io/badge/Wolfram%20Language-DD1100.svg?&logoColor=white"></img>
     <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1.svg?logo=MySQL&logoColor=white"></img>
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></img>
     <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=PyTorch&logoColor=white"></img>
