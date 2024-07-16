@@ -57,6 +57,8 @@ Professionally, I served as an AI Research Engineer at AIMdyn Inc., where I buil
 </p>
 
 ## Check out my Latest Projects
+- [Local LLM Training on Apple Silicon](https://github.com/GusLovesMath/Local_LLM_Training_Apple_Silicon) - This repository contains the resources and documentation for the project "Local LLM Training on Apple Silicon", where the Llama3 model was fine-tuned to efficiently solve verbose mathematical word problems on an Apple Silicon device with 16 GPUs. 
+
 - [NeuralForecast | Nixtla NeuralForecast](https://www.kaggle.com/code/guslovesmath/amazing-neuralforecast-nvda-forecasting) - Features comprehensive neural forecasting models including NBEATS, enhancing stock market analysis, prediction accuracy, and model training time.
 
 - [High-Accuracy Brain Tumor Classification using CNN](https://github.com/GusLovesMath/BrainTumorClassifier-CNN-TF2.16) - A CNN developed with TensorFlow 2.16 and GPU acceleration achieves a 99.7% accuracy rate in classifying brain tumors, incorporating advanced techniques like data augmentation and adaptive learning rate adjustments.
